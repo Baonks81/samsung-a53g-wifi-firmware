@@ -1,5 +1,5 @@
 # samsung-a53g-sim card-mobile data-wifi-firmware
-extract from modem.bin and NON-HLOS.bin in stock Android 6.0.1
+extract from modem.bin(CP_A500Hxxx) and NON-HLOS.bin(BL_A500Hxxx) in stock Android 6.0.1
 
 copy mba.mbn, modem. *, modem.mdt, wcnss. *, wcnss.mdt to /lib/firmware/postmarketos
 
